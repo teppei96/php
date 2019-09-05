@@ -12,7 +12,7 @@ $defs =array(
 <title>PHP入門教室</title>
 </head>
 <body>
-<h3>アンケート</h3>
+<h3>アンケート</h3>ss
 <form method="POST" action="request2.php">
 
   <div class="container">
