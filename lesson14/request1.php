@@ -1,8 +1,8 @@
 <?php
 $defs =array(
   'name' => '山田太郎', 'email' => 'yamada@wings.msn.to',
-  'zip' => '100-0000', 'sex' => '男性', 'age' => '40',
-  'os' => array('win','linux'), 'memo' => '特になし'
+  'zip'  => '100-0000', 'sex' => '男性', 'age' => '40',
+  'os'   => array('win','linux'), 'memo' => '特になし'
 );
 ?>
 <!DOCTYPE html>
